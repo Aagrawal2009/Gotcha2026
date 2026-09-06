@@ -23,13 +23,13 @@ async function seedProfiles() {
       class: "junior",
       dayorboard: "day",
       tags: 0,
-      chaser: "jordan_lee@milton.edu",
+      chaser: "aarav_agrawal27@milton.edu",
       target: {
         firstName: "Alex",
         lastName: "Chen",
         email: "alex_chen@milton.edu",
+        location: "Pritzker",
       },
-      location: "Strauss",
     },
     "alex_chen@milton.edu": {
       alive: true,
@@ -44,8 +44,8 @@ async function seedProfiles() {
         firstName: "Jordan",
         lastName: "Lee",
         email: "jordan_lee@milton.edu",
+        location: "Pritzker",
       },
-      location: "Pritzker",
     },
     "jordan_lee@milton.edu": {
       alive: true,
@@ -60,8 +60,8 @@ async function seedProfiles() {
         firstName: "Isaac",
         lastName: "Wu",
         email: "isaac_wu28@milton.edu",
+        location: "FMC",
       },
-      location: "Stu",
     },
     "isaac_wu28@milton.edu": {
       alive: true,
@@ -77,7 +77,6 @@ async function seedProfiles() {
         lastName: "Agrawal",
         email: "aarav_agrawal27@milton.edu",
       },
-      location: "FMC",
     },
     "aarav_agrawal27@milton.edu": {
       alive: true,
@@ -92,8 +91,8 @@ async function seedProfiles() {
         firstName: "Felix",
         lastName: "Stuart",
         email: "felix_stuart27@milton.edu",
+        location: "Pritzker",
       },
-      location: "Robotics lab",
     },
   };
 
